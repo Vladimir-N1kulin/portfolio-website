@@ -1,2 +1,2 @@
 # portfolio-website
- website showcasing projects and expirience
+ website showcasing projects and experience
